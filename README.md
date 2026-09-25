@@ -1,5 +1,6 @@
 # CDBG-DR Fund Dashboard
-## Financial and geographic edition · v7
+https://CECREH-2023.github.io/HUD-CDBG-DR-Fund-Dashboard/
+## Financial and geographic edition
 
 This is a complete, root-ready static GitHub Pages website. It preserves Explore & Compare, Quick Report, financial charts, geographic analysis, and aggregate downloads. Explore & Compare opens first.
 
